@@ -1,0 +1,28 @@
+.add {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .new-task {
+        border-color: rgb(200, 200, 200);
+        border-style: solid;
+        width: 40%;
+        height: 40px;
+    }
+
+    .add-button {
+        width: 10%;
+        height: 46px;
+        border-width: 1px;
+        border-style: solid;
+        background-color: rgb(200, 200, 200);
+        border-color: rgb(200, 200, 200);
+        word-wrap: break-word;
+    }
+
+    .add-button:hover {
+        cursor: pointer;
+        background-color: rgb(150, 150, 150);
+    }
+}
