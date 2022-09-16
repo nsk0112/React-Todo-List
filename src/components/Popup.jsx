@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react'
 import './Popup.scss'
 
 export function Popup(props) {
